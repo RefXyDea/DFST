@@ -1,0 +1,135 @@
+[submodule "fst-qa-automation"]
+	path = fst-qa-automation
+	url = git@bitbucket.org:xyleminc/fst-qa-automation.git
+[submodule "fst-admin-server"]
+	path = fst-admin-server
+	url = git@bitbucket.org:xyleminc/fst-admin-server.git
+[submodule "fst_scheduler_service"]
+	path = fst_scheduler_service
+	url = git@bitbucket.org:xyleminc/fst_scheduler_service.git
+[submodule "fst_location"]
+	path = fst_location
+	url = git@bitbucket.org:xyleminc/fst_location.git
+[submodule "vig_package"]
+	path = vig_package
+	url = git@bitbucket.org:xyleminc/vig_package.git
+[submodule "fst_alarm"]
+	path = fst_alarm
+	url = git@bitbucket.org:xyleminc/fst_alarm.git
+[submodule "fst_user-service"]
+	path = fst_user-service
+	url = git@bitbucket.org:xyleminc/fst_user-service.git
+[submodule "fst-erp-codebase"]
+	path = fst-erp-codebase
+	url = git@bitbucket.org:xyleminc/fst-erp-codebase.git
+[submodule "config-repo"]
+	path = config-repo
+	url = git@bitbucket.org:xyleminc/config-repo.git
+[submodule "fst-scheduler"]
+	path = fst-scheduler
+	url = git@bitbucket.org:xyleminc/fst-scheduler.git
+[submodule "fst_help"]
+	path = fst_help
+	url = git@bitbucket.org:xyleminc/fst_help.git
+[submodule "dewatering_ui"]
+	path = dewatering_ui
+	url = git@bitbucket.org:xyleminc/dewatering_ui.git
+[submodule "fst_eureka"]
+	path = fst_eureka
+	url = git@bitbucket.org:xyleminc/fst_eureka.git
+[submodule "iridiumservicemanagement"]
+	path = iridiumservicemanagement
+	url = git@bitbucket.org:xyleminc/iridiumservicemanagement.git
+[submodule "fst-metadata"]
+	path = fst-metadata
+	url = git@bitbucket.org:xyleminc/fst-metadata.git
+[submodule "fst_config"]
+	path = fst_config
+	url = git@bitbucket.org:xyleminc/fst_config.git
+[submodule "fst_audit"]
+	path = fst_audit
+	url = git@bitbucket.org:xyleminc/fst_audit.git
+[submodule "vig_rest"]
+	path = vig_rest
+	url = git@bitbucket.org:xyleminc/vig_rest.git
+[submodule "vig_iridium"]
+	path = vig_iridium
+	url = git@bitbucket.org:xyleminc/vig_iridium.git
+[submodule "fst-common-utils"]
+	path = fst-common-utils
+	url = git@bitbucket.org:xyleminc/fst-common-utils.git
+[submodule "fst-lpsg-application"]
+	path = fst-lpsg-application
+	url = git@bitbucket.org:xyleminc/fst-lpsg-application.git
+[submodule "fst-erp-csv-processing"]
+	path = fst-erp-csv-processing
+	url = git@bitbucket.org:xyleminc/fst-erp-csv-processing.git
+[submodule "fst_observation_service"]
+	path = fst_observation_service
+	url = git@bitbucket.org:xyleminc/fst_observation_service.git
+[submodule "fst_device_management_service"]
+	path = fst_device_management_service
+	url = git@bitbucket.org:xyleminc/fst_device_management_service.git
+[submodule "vig_updater"]
+	path = vig_updater
+	url = git@bitbucket.org:xyleminc/vig_updater.git
+[submodule "fst-docker"]
+	path = fst-docker
+	url = git@bitbucket.org:xyleminc/fst-docker.git
+[submodule "test_fst_translation_service"]
+	path = test_fst_translation_service
+	url = git@bitbucket.org:xyleminc/test_fst_translation_service.git
+[submodule "fst_datamon"]
+	path = fst_datamon
+	url = git@bitbucket.org:xyleminc/fst_datamon.git
+[submodule "test_clone"]
+	path = test_clone
+	url = git@bitbucket.org:xyleminc/fst-erp-codebase.git
+[submodule "fst_report_service"]
+	path = fst_report_service
+	url = git@bitbucket.org:xyleminc/fst_report_service.git
+[submodule "fst_erp_device"]
+	path = fst_erp_device
+	url = git@bitbucket.org:xyleminc/fst_erp_device.git
+[submodule "fst_web_ui"]
+	path = fst_web_ui
+	url = git@bitbucket.org:xyleminc/fst_web_ui.git
+[submodule "sitesfromexstcust"]
+	path = sitesfromexstcust
+	url = git@bitbucket.org:xyleminc/sitesfromexstcust.git
+[submodule "fst_notification_service"]
+	path = fst_notification_service
+	url = git@bitbucket.org:xyleminc/fst_notification_service.git
+[submodule "fst-parent-pom"]
+	path = fst-parent-pom
+	url = git@bitbucket.org:xyleminc/fst-parent-pom.git
+[submodule "fst_remote_control"]
+	path = fst_remote_control
+	url = git@bitbucket.org:xyleminc/fst_remote_control.git
+[submodule "fst-s3-file-uploader"]
+	path = fst-s3-file-uploader
+	url = git@bitbucket.org:xyleminc/fst-s3-file-uploader.git
+[submodule "helm-fst-values"]
+	path = helm-fst-values
+	url = git@bitbucket.org:xyleminc/helm-fst-values.git
+[submodule "fst-cloud-gateway-service"]
+	path = fst-cloud-gateway-service
+	url = git@bitbucket.org:xyleminc/fst-cloud-gateway-service.git
+[submodule "vig_tcp"]
+	path = vig_tcp
+	url = git@bitbucket.org:xyleminc/vig_tcp.git
+[submodule "fst-qa"]
+	path = fst-qa
+	url = git@bitbucket.org:xyleminc/fst-qa.git
+[submodule "fst-config-repo-k8"]
+	path = fst-config-repo-k8
+	url = git@bitbucket.org:xyleminc/fst-config-repo-k8.git
+[submodule "helm-fst-app"]
+	path = helm-fst-app
+	url = git@bitbucket.org:xyleminc/helm-fst-app.git
+[submodule "vig_orbcomm"]
+	path = vig_orbcomm
+	url = git@bitbucket.org:xyleminc/vig_orbcomm.git
+[submodule "fst-eks-configmap"]
+	path = fst-eks-configmap
+	url = git@bitbucket.org:xyleminc/fst-eks-configmap.git
